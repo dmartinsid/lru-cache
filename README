@@ -3,3 +3,5 @@ Implementar algoritimo de LRU descrito em: http://www.ebaytechblog.com/2011/08/3
 Editando no eclipse:
     Para editar no eclipse é necessário gerar os arquivos de projeto do eclipse, para isso deve executar o comando do maven
         $ mvn eclipse:eclipse
+
+    No eclipse não se esqueça de criar a variavel de ambiente M2_REPO apontando para ~/.m2/repository
