@@ -1,4 +1,5 @@
 put element in cache
+put if absent
 
 get element in cache
 
